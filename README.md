@@ -9,7 +9,14 @@ Diese Seiten (*books.toscrape.com* / *quotes.toscrape.com*) sind offizielle Übu
 ## 🛠 Verwendete Technologien
 - **Python 3.11**
 - **Requests** – HTTP-Anfragen
-- **BeautifulSoup4** – HTML-Parsing
+- **BeautifulSoup** – HTML-Parsing
 - **lxml** – Schnelles HTML/XML-Parsing
 - **Pandas** – Datenverarbeitung & Export
 - **openpyxl** – Excel-Export
+
+## 🖥 Voraussetzungen
+
+Um dieses Projekt auszuführen, benötigen Sie:
+- **Python** – installiert über [Python.org](https://www.python.org/) oder [Anaconda](https://www.anaconda.com/)
+- **Entwicklungsumgebung** wie: [Visual Studio Code](https://code.visualstudio.com/) (empfohlen) mit Python-Extension
+- 
