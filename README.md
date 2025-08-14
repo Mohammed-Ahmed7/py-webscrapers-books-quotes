@@ -1,7 +1,7 @@
 
 # Python Webscraping – Books & Quotes
 
-Zwei kleine Webscraper als Beispiel für **Data-Engineering** und **Automatisierung** in Python:  
+Zwei kleine Webscraper als Beispiel für **Data-Engineering** in Python:  
 - **Books to Scrape:** Extrahiert Buchtitel, Preis, Verfügbarkeit und Sternebewertung, speichert die Daten in CSV und Excel.  
 - **Quotes to Scrape:** Sammelt Zitate und Autoren, speichert sie in CSV.  
 
@@ -22,4 +22,6 @@ Um dieses Projekt auszuführen, benötigen Sie:
 - **Benötigte Python-Bibliotheken:** pip install requests beautifulsoup4 lxml pandas
 
 ## 🖼 Preview outcome
-[`Scrape/bookss.csv`](Scrape/bookss.csv)
+**Scraped Books in CSV**[`Scrape/bookss.csv`](Scrape/bookss.csv)
+**Scraped Books in Exel**[`Scrape/bookss.csv`](Scrape/bookss.xlsx)
+**Scraped Quotes in CSV**[`Scrape/bookss.csv`](Scrape/quotes.csv)
