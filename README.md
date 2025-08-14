@@ -21,7 +21,7 @@ Um dieses Projekt auszuführen, benötigen Sie:
 - **Entwicklungsumgebung** wie: [Visual Studio Code](https://code.visualstudio.com/) (empfohlen) mit Python-Extension
 - **Benötigte Python-Bibliotheken:** pip install requests beautifulsoup4 lxml pandas
 
-## 🖼 Preview outcome
+## 🖼 Preview Outcome
 **Scraped Books in CSV**[`Scrape/bookss.csv`](Scrape/bookss.csv)
 **Scraped Books in Exel**[`Scrape/bookss.csv`](Scrape/bookss.xlsx)
 **Scraped Quotes in CSV**[`Scrape/bookss.csv`](Scrape/quotes.csv)
